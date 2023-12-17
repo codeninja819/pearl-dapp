@@ -1,0 +1,18 @@
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 632877">
+<g id="Group 632875">
+<circle id="Ellipse 2" cx="34" cy="34" r="34" fill="#222C3C"/>
+</g>
+<g id="Group 632876">
+<path id="Rectangle 74" d="M17 22C17 18.6863 19.6863 16 23 16H46C49.3137 16 52 18.6863 52 22V46C52 49.3137 49.3137 52 46 52H23C19.6863 52 17 49.3137 17 46V22Z" fill="url(#paint0_linear_1268_23426)"/>
+<path id="Rectangle 75" d="M24 23.5C24 22.6716 24.6716 22 25.5 22H43.5C44.3284 22 45 22.6716 45 23.5V23.5C45 24.3284 44.3284 25 43.5 25H25.5C24.6716 25 24 24.3284 24 23.5V23.5Z" fill="white"/>
+<path id="Vector" d="M30.675 30C28.0931 30 26 32.1522 26 34.8069C26 39.6137 31.525 43.9836 34.5 45C37.475 43.9836 43 39.6137 43 34.8069C43 32.1522 40.9069 30 38.325 30C36.744 30 35.3458 30.8071 34.5 32.0425C34.0689 31.4111 33.4962 30.8959 32.8304 30.5403C32.1646 30.1848 31.4253 29.9995 30.675 30Z" fill="white"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1268_23426" x1="39.4224" y1="9.97793" x2="39.4224" y2="36.0736" gradientUnits="userSpaceOnUse">
+<stop stop-color="#85E0A3"/>
+<stop offset="1" stop-color="#80CAFF"/>
+</linearGradient>
+</defs>
+</svg>
